@@ -1,0 +1,7 @@
+.vs/
+*.sln
+*/x64/*
+x86/
+laby_second_sem/*
+*/*.vcxproj*
+*/Debug/*
